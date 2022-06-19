@@ -22,7 +22,6 @@
     "remark"
   ],
   "license": "MIT",
-  "type": "module",
   "main": "index.js",
   "repository": "https://github.com/hanai/gatsby-remark-mathjax",
   "scripts": {
