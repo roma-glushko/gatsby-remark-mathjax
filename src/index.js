@@ -1,5 +1,5 @@
-const visit = require(`unist-util-visit`)
-const remarkMath = require(`remark-math`)
+import visit from 'unist-util-visit'
+import remarkMath from 'remark-math'
 
 module.exports = ({ markdownAST }) => {
   visit(markdownAST, `inlineMath`, node => {
