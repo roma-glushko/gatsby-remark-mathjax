@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "remark-math": "^1.0.3",
+    "remark-math": "^5.1.1",
     "unist-util-visit": "^1.1.1"
   },
   "devDependencies": {
